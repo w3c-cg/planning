@@ -1,5 +1,1 @@
-
-# Specification 'automated-planning'
-
-This is the repository for automated-planning. You're welcome to contribute! Let's make the Web rock our socks
-off!
+Welcome to the repository for the [Automated Planning and Scheduling Community Group](https://www.w3.org/community/planning/)!
